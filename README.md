@@ -1,6 +1,3 @@
 # sample_may12
-# This is my first class
-# This is my README file. :)
-
-
-Difference between Node and Angular
+# Student ID: 200455316
+# Steban Pulido
